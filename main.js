@@ -1,4 +1,4 @@
-    
+    /* Main.js file for website*/
 $(document).ready(function() {
     $(document).on('click', '.normal-links', function(event) {
         event.preventDefault();
